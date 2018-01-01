@@ -49,6 +49,8 @@ include 'controladores/indexController.php';
                     </div>
                     <div class="card-body">
                         <form action="descargar.php">
+                            <input type="hidden" name="formato" value="xml">
+                            <input type="hidden" name="tipo" value="film">
                             <div class="form-row">
                                 <div class="form-group col-md-2">
                                     <label for="title">Title</label>
