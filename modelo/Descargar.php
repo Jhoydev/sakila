@@ -1,6 +1,8 @@
 <?php
 include_once URL."/core/database.php";
 
+$fillable = ["title","rating","release_year","language_id","category_id"];
+
 function select_download($req){
     global $link;
     global $fillable;
@@ -22,7 +24,6 @@ function select_download($req){
     }
 
     $sql = "select * from film f INNER JOIN film_category f2 ON f.film_id = f2.film_id INNER JOIN category c ON f2.category_id = c.category_id $where";
-    echo $sql;
     $rs  = mysqli_query($link, $sql);
     $rows = array();
 

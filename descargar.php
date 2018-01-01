@@ -1,14 +1,10 @@
 <?php
 include_once "config.php";
-include_once URL."/modelo/Descargar.php";
+include_once URL."/controladores/descargaController.php";
 
-$datos = null;
-
-$fillable = ["title","rating","release_year","language_id","category_id"];
-
-if ($_REQUEST["formato"] == "xml" && validar_request($_REQUEST)){
-    $datos = select_download($_REQUEST);
+if ($datos){
+   $xml = crearXML($datos,STORAGE . "/datos.xml");
 }
-
-echo "procesando...";
-
+if ($xml){
+    echo "XML generado con exito";
+}

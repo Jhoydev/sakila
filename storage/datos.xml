@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<films>
+	<film>
+		<film_id>19</film_id>
+		<title><![CDATA[AMADEUS HOLY]]></title>
+		<description><![CDATA[A Emotional Display of a Pioneer And a Technical Writer who must Battle a Man in A Baloon]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>113</length>
+		<replacement_cost>20.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>21</film_id>
+		<title><![CDATA[AMERICAN CIRCUS]]></title>
+		<description><![CDATA[A Insightful Drama of a Girl And a Astronaut who must Face a Database Administrator in A Shark Tank]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>129</length>
+		<replacement_cost>17.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Commentaries,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>29</film_id>
+		<title><![CDATA[ANTITRUST TOMATOES]]></title>
+		<description><![CDATA[A Fateful Yarn of a Womanizer And a Feminist who must Succumb a Database Administrator in Ancient India]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>168</length>
+		<replacement_cost>11.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>38</film_id>
+		<title><![CDATA[ARK RIDGEMONT]]></title>
+		<description><![CDATA[A Beautiful Yarn of a Pioneer And a Monkey who must Pursue a Explorer in The Sahara Desert]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>68</length>
+		<replacement_cost>25.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>56</film_id>
+		<title><![CDATA[BAREFOOT MANCHURIAN]]></title>
+		<description><![CDATA[A Intrepid Story of a Cat And a Student who must Vanquish a Girl in An Abandoned Amusement Park]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>129</length>
+		<replacement_cost>15.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Commentaries]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>67</film_id>
+		<title><![CDATA[BERETS AGENT]]></title>
+		<description><![CDATA[A Taut Saga of a Crocodile And a Boy who must Overcome a Technical Writer in Ancient China]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>77</length>
+		<replacement_cost>24.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>97</film_id>
+		<title><![CDATA[BRIDE INTRIGUE]]></title>
+		<description><![CDATA[A Epic Tale of a Robot And a Monkey who must Vanquish a Man in New Orleans]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>56</length>
+		<replacement_cost>24.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>105</film_id>
+		<title><![CDATA[BULL SHAWSHANK]]></title>
+		<description><![CDATA[A Fanciful Drama of a Moose And a Squirrel who must Conquer a Pioneer in The Canadian Rockies]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>125</length>
+		<replacement_cost>21.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>111</film_id>
+		<title><![CDATA[CADDYSHACK JEDI]]></title>
+		<description><![CDATA[A Awe-Inspiring Epistle of a Woman And a Madman who must Fight a Robot in Soviet Georgia]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>52</length>
+		<replacement_cost>17.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Commentaries,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>115</film_id>
+		<title><![CDATA[CAMPUS REMEMBER]]></title>
+		<description><![CDATA[A Astounding Drama of a Crocodile And a Mad Cow who must Build a Robot in A Jet Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>167</length>
+		<replacement_cost>27.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>126</film_id>
+		<title><![CDATA[CASUALTIES ENCINO]]></title>
+		<description><![CDATA[A Insightful Yarn of a A Shark And a Pastry Chef who must Face a Boy in A Monastery]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>179</length>
+		<replacement_cost>16.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>130</film_id>
+		<title><![CDATA[CELEBRITY HORN]]></title>
+		<description><![CDATA[A Amazing Documentary of a Secret Agent And a Astronaut who must Vanquish a Hunter in A Shark Tank]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>110</length>
+		<replacement_cost>24.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>162</film_id>
+		<title><![CDATA[CLUELESS BUCKET]]></title>
+		<description><![CDATA[A Taut Tale of a Car And a Pioneer who must Conquer a Sumo Wrestler in An Abandoned Fun House]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>95</length>
+		<replacement_cost>13.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Trailers,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>194</film_id>
+		<title><![CDATA[CROW GREASE]]></title>
+		<description><![CDATA[A Awe-Inspiring Documentary of a Woman And a Husband who must Sink a Database Administrator in The First Manned Space Station]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>104</length>
+		<replacement_cost>22.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>205</film_id>
+		<title><![CDATA[DANCES NONE]]></title>
+		<description><![CDATA[A Insightful Reflection of a A Shark And a Dog who must Kill a Butler in An Abandoned Amusement Park]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>58</length>
+		<replacement_cost>22.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>210</film_id>
+		<title><![CDATA[DARKO DORADO]]></title>
+		<description><![CDATA[A Stunning Reflection of a Frisbee And a Husband who must Redeem a Dog in New Orleans]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>130</length>
+		<replacement_cost>13.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>212</film_id>
+		<title><![CDATA[DARN FORRESTER]]></title>
+		<description><![CDATA[A Fateful Story of a A Shark And a Explorer who must Succumb a Technical Writer in A Jet Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>185</length>
+		<replacement_cost>14.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>229</film_id>
+		<title><![CDATA[DEVIL DESIRE]]></title>
+		<description><![CDATA[A Beautiful Reflection of a Monkey And a Dentist who must Face a Database Administrator in Ancient Japan]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>87</length>
+		<replacement_cost>12.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Trailers,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>250</film_id>
+		<title><![CDATA[DRAGON SQUAD]]></title>
+		<description><![CDATA[A Taut Reflection of a Boy And a Waitress who must Outgun a Teacher in Ancient China]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>170</length>
+		<replacement_cost>26.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>252</film_id>
+		<title><![CDATA[DREAM PICKUP]]></title>
+		<description><![CDATA[A Epic Display of a Car And a Composer who must Overcome a Forensic Psychologist in The Gulf of Mexico]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>135</length>
+		<replacement_cost>18.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>253</film_id>
+		<title><![CDATA[DRIFTER COMMANDMENTS]]></title>
+		<description><![CDATA[A Epic Reflection of a Womanizer And a Squirrel who must Discover a Husband in A Jet Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>61</length>
+		<replacement_cost>18.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Trailers,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>271</film_id>
+		<title><![CDATA[EASY GLADIATOR]]></title>
+		<description><![CDATA[A Fateful Story of a Monkey And a Girl who must Overcome a Pastry Chef in Ancient India]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>148</length>
+		<replacement_cost>12.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>287</film_id>
+		<title><![CDATA[ENTRAPMENT SATISFACTION]]></title>
+		<description><![CDATA[A Thoughtful Panorama of a Hunter And a Teacher who must Reach a Mad Cow in A U-Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>176</length>
+		<replacement_cost>19.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>292</film_id>
+		<title><![CDATA[EXCITEMENT EVE]]></title>
+		<description><![CDATA[A Brilliant Documentary of a Monkey And a Car who must Conquer a Crocodile in A Shark Tank]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>51</length>
+		<replacement_cost>20.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Commentaries]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>303</film_id>
+		<title><![CDATA[FANTASY TROOPERS]]></title>
+		<description><![CDATA[A Touching Saga of a Teacher And a Monkey who must Overcome a Secret Agent in A MySQL Convention]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>58</length>
+		<replacement_cost>27.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>318</film_id>
+		<title><![CDATA[FIREHOUSE VIETNAM]]></title>
+		<description><![CDATA[A Awe-Inspiring Character Study of a Boat And a Boy who must Kill a Pastry Chef in The Sahara Desert]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>103</length>
+		<replacement_cost>14.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Commentaries,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>327</film_id>
+		<title><![CDATA[FOOL MOCKINGBIRD]]></title>
+		<description><![CDATA[A Lacklusture Tale of a Crocodile And a Composer who must Defeat a Madman in A U-Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>158</length>
+		<replacement_cost>24.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Trailers,Commentaries]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>329</film_id>
+		<title><![CDATA[FORREST SONS]]></title>
+		<description><![CDATA[A Thrilling Documentary of a Forensic Psychologist And a Butler who must Defeat a Explorer in A Jet Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>63</length>
+		<replacement_cost>15.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Commentaries]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>360</film_id>
+		<title><![CDATA[GLASS DYING]]></title>
+		<description><![CDATA[A Astounding Drama of a Frisbee And a Astronaut who must Fight a Dog in Ancient Japan]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>103</length>
+		<replacement_cost>24.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>371</film_id>
+		<title><![CDATA[GOSFORD DONNIE]]></title>
+		<description><![CDATA[A Epic Panorama of a Mad Scientist And a Monkey who must Redeem a Secret Agent in Berlin]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>129</length>
+		<replacement_cost>17.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Commentaries]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>375</film_id>
+		<title><![CDATA[GRAIL FRANKENSTEIN]]></title>
+		<description><![CDATA[A Unbelieveable Saga of a Teacher And a Monkey who must Fight a Girl in An Abandoned Mine Shaft]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>85</length>
+		<replacement_cost>17.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>395</film_id>
+		<title><![CDATA[HANDICAP BOONDOCK]]></title>
+		<description><![CDATA[A Beautiful Display of a Pioneer And a Squirrel who must Vanquish a Sumo Wrestler in Soviet Georgia]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>108</length>
+		<replacement_cost>28.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>417</film_id>
+		<title><![CDATA[HILLS NEIGHBORS]]></title>
+		<description><![CDATA[A Epic Display of a Hunter And a Feminist who must Sink a Car in A U-Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>93</length>
+		<replacement_cost>29.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>501</film_id>
+		<title><![CDATA[KISSING DOLLS]]></title>
+		<description><![CDATA[A Insightful Reflection of a Pioneer And a Teacher who must Build a Composer in The First Manned Space Station]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>141</length>
+		<replacement_cost>9.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Trailers]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>511</film_id>
+		<title><![CDATA[LAWRENCE LOVE]]></title>
+		<description><![CDATA[A Fanciful Yarn of a Database Administrator And a Mad Cow who must Pursue a Womanizer in Berlin]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>175</length>
+		<replacement_cost>23.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>530</film_id>
+		<title><![CDATA[LORD ARIZONA]]></title>
+		<description><![CDATA[A Action-Packed Display of a Frisbee And a Pastry Chef who must Pursue a Crocodile in A Jet Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>108</length>
+		<replacement_cost>27.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Trailers]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>542</film_id>
+		<title><![CDATA[LUST LOCK]]></title>
+		<description><![CDATA[A Fanciful Panorama of a Hunter And a Dentist who must Meet a Secret Agent in The Sahara Desert]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>52</length>
+		<replacement_cost>28.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>549</film_id>
+		<title><![CDATA[MAGNOLIA FORRESTER]]></title>
+		<description><![CDATA[A Thoughtful Documentary of a Composer And a Explorer who must Conquer a Dentist in New Orleans]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>171</length>
+		<replacement_cost>28.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>574</film_id>
+		<title><![CDATA[MIDNIGHT WESTWARD]]></title>
+		<description><![CDATA[A Taut Reflection of a Husband And a A Shark who must Redeem a Pastry Chef in A Monastery]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>86</length>
+		<replacement_cost>19.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>579</film_id>
+		<title><![CDATA[MINDS TRUMAN]]></title>
+		<description><![CDATA[A Taut Yarn of a Mad Scientist And a Crocodile who must Outgun a Database Administrator in A Monastery]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>149</length>
+		<replacement_cost>22.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>586</film_id>
+		<title><![CDATA[MOCKINGBIRD HOLLYWOOD]]></title>
+		<description><![CDATA[A Thoughtful Panorama of a Man And a Car who must Sink a Composer in Berlin]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>60</length>
+		<replacement_cost>27.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>594</film_id>
+		<title><![CDATA[MONTEZUMA COMMAND]]></title>
+		<description><![CDATA[A Thrilling Reflection of a Waitress And a Butler who must Battle a Butler in A Jet Boat]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>126</length>
+		<replacement_cost>22.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Trailers]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>659</film_id>
+		<title><![CDATA[PARK CITIZEN]]></title>
+		<description><![CDATA[A Taut Epistle of a Sumo Wrestler And a Girl who must Face a Husband in Ancient Japan]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>3</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>109</length>
+		<replacement_cost>14.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Trailers,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>664</film_id>
+		<title><![CDATA[PATRIOT ROMAN]]></title>
+		<description><![CDATA[A Taut Saga of a Robot And a Database Administrator who must Challenge a Astronaut in California]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>65</length>
+		<replacement_cost>12.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Trailers,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>697</film_id>
+		<title><![CDATA[PRIMARY GLASS]]></title>
+		<description><![CDATA[A Fateful Documentary of a Pastry Chef And a Butler who must Build a Dog in The Canadian Rockies]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>53</length>
+		<replacement_cost>16.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>707</film_id>
+		<title><![CDATA[QUEST MUSSOLINI]]></title>
+		<description><![CDATA[A Fateful Drama of a Husband And a Sumo Wrestler who must Battle a Pastry Chef in A Baloon Factory]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>177</length>
+		<replacement_cost>29.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>717</film_id>
+		<title><![CDATA[REAR TRADING]]></title>
+		<description><![CDATA[A Awe-Inspiring Reflection of a Forensic Psychologist And a Secret Agent who must Succumb a Pastry Chef in Soviet Georgia]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>97</length>
+		<replacement_cost>23.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>732</film_id>
+		<title><![CDATA[RINGS HEARTBREAKERS]]></title>
+		<description><![CDATA[A Amazing Yarn of a Sumo Wrestler And a Boat who must Conquer a Waitress in New Orleans]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>58</length>
+		<replacement_cost>17.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>748</film_id>
+		<title><![CDATA[RUGRATS SHAKESPEARE]]></title>
+		<description><![CDATA[A Touching Saga of a Crocodile And a Crocodile who must Discover a Technical Writer in Nigeria]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>109</length>
+		<replacement_cost>16.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>793</film_id>
+		<title><![CDATA[SHRUNK DIVINE]]></title>
+		<description><![CDATA[A Fateful Character Study of a Waitress And a Technical Writer who must Battle a Hunter in A Baloon]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>139</length>
+		<replacement_cost>14.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Trailers,Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>794</film_id>
+		<title><![CDATA[SIDE ARK]]></title>
+		<description><![CDATA[A Stunning Panorama of a Crocodile And a Womanizer who must Meet a Feminist in The Canadian Rockies]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>52</length>
+		<replacement_cost>28.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>802</film_id>
+		<title><![CDATA[SKY MIRACLE]]></title>
+		<description><![CDATA[A Epic Drama of a Mad Scientist And a Explorer who must Succumb a Waitress in An Abandoned Fun House]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>132</length>
+		<replacement_cost>15.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Trailers,Commentaries,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>823</film_id>
+		<title><![CDATA[SOUTH WAIT]]></title>
+		<description><![CDATA[A Amazing Documentary of a Car And a Robot who must Escape a Lumberjack in An Abandoned Amusement Park]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>143</length>
+		<replacement_cost>21.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Commentaries,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>825</film_id>
+		<title><![CDATA[SPEAKEASY DATE]]></title>
+		<description><![CDATA[A Lacklusture Drama of a Forensic Psychologist And a Car who must Redeem a Man in A Manhattan Penthouse]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>165</length>
+		<replacement_cost>22.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>838</film_id>
+		<title><![CDATA[STAGECOACH ARMAGEDDON]]></title>
+		<description><![CDATA[A Touching Display of a Pioneer And a Butler who must Chase a Car in California]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>5</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>112</length>
+		<replacement_cost>25.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Trailers,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>850</film_id>
+		<title><![CDATA[STORY SIDE]]></title>
+		<description><![CDATA[A Lacklusture Saga of a Boy And a Cat who must Sink a Dentist in An Abandoned Mine Shaft]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>163</length>
+		<replacement_cost>27.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Trailers,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>869</film_id>
+		<title><![CDATA[SUSPECTS QUILLS]]></title>
+		<description><![CDATA[A Emotional Epistle of a Pioneer And a Crocodile who must Battle a Man in A Manhattan Penthouse]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>47</length>
+		<replacement_cost>22.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Trailers]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>911</film_id>
+		<title><![CDATA[TRIP NEWTON]]></title>
+		<description><![CDATA[A Fanciful Character Study of a Lumberjack And a Car who must Discover a Cat in An Abandoned Amusement Park]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>64</length>
+		<replacement_cost>14.99</replacement_cost>
+		<rating>PG-13</rating>
+		<special_features><![CDATA[Commentaries,Deleted Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>915</film_id>
+		<title><![CDATA[TRUMAN CRAZY]]></title>
+		<description><![CDATA[A Thrilling Epistle of a Moose And a Boy who must Meet a Database Administrator in A Monastery]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>7</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>92</length>
+		<replacement_cost>9.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Commentaries]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>927</film_id>
+		<title><![CDATA[UPRISING UPTOWN]]></title>
+		<description><![CDATA[A Fanciful Reflection of a Boy And a Butler who must Pursue a Woman in Berlin]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>174</length>
+		<replacement_cost>16.99</replacement_cost>
+		<rating>NC-17</rating>
+		<special_features><![CDATA[Trailers,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>964</film_id>
+		<title><![CDATA[WATERFRONT DELIVERANCE]]></title>
+		<description><![CDATA[A Unbelieveable Documentary of a Dentist And a Technical Writer who must Build a Womanizer in Nigeria]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>61</length>
+		<replacement_cost>17.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>968</film_id>
+		<title><![CDATA[WEREWOLF LOLA]]></title>
+		<description><![CDATA[A Fanciful Story of a Man And a Sumo Wrestler who must Outrace a Student in A Monastery]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>6</rental_duration>
+		<rental_rate>4.99</rental_rate>
+		<length>79</length>
+		<replacement_cost>19.99</replacement_cost>
+		<rating>G</rating>
+		<special_features><![CDATA[Trailers,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>982</film_id>
+		<title><![CDATA[WOMEN DORADO]]></title>
+		<description><![CDATA[A Insightful Documentary of a Waitress And a Butler who must Vanquish a Composer in Australia]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>0.99</rental_rate>
+		<length>126</length>
+		<replacement_cost>23.99</replacement_cost>
+		<rating>R</rating>
+		<special_features><![CDATA[Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+	<film>
+		<film_id>991</film_id>
+		<title><![CDATA[WORST BANGER]]></title>
+		<description><![CDATA[A Thrilling Drama of a Madman And a Dentist who must Conquer a Boy in The Outback]]></description>
+		<release_year>2006</release_year>
+		<language_id>1</language_id>
+		<original_language_id/>
+		<rental_duration>4</rental_duration>
+		<rental_rate>2.99</rental_rate>
+		<length>185</length>
+		<replacement_cost>26.99</replacement_cost>
+		<rating>PG</rating>
+		<special_features><![CDATA[Deleted Scenes,Behind the Scenes]]></special_features>
+		<last_update>2006-02-15 04:46:27</last_update>
+		<category_id>1</category_id>
+		<category>Action</category>
+	</film>
+</films>
